@@ -1,3 +1,10 @@
+> [!NOTE]
+> **Este repositório é uma versão independente baseada no [Sure](https://github.com/we-promise/sure)**, que por sua vez é um fork comunitário do [Maybe Finance](https://github.com/maybe-finance/maybe).
+> Este projeto **não é afiliado nem endossado pela Maybe Finance Inc.** nem pelos mantenedores do Sure. "Maybe" é marca registrada da Maybe Finance Inc.
+> Distribuído sob a licença [AGPLv3](LICENSE), a mesma do projeto original.
+>
+> *This repository is an independent version based on [Sure](https://github.com/we-promise/sure), a community fork of [Maybe Finance](https://github.com/maybe-finance/maybe). It is **not affiliated with or endorsed by Maybe Finance Inc.** or the Sure maintainers. Licensed under [AGPLv3](LICENSE).*
+
 [![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-blue)](https://deepwiki.com/we-promise/sure)
 [![View performance data on Skylight](https://badges.skylight.io/typical/s6PEZSKwcklL.svg)](https://oss.skylight.io/app/applications/s6PEZSKwcklL)
 [![Dosu](https://raw.githubusercontent.com/dosu-ai/assets/main/dosu-badge.svg)](https://app.dosu.dev/a72bdcfd-15f5-4edc-bd85-ea0daa6c3adc/ask)
